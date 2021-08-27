@@ -18,6 +18,8 @@
 |[Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [moving_zeros_to_the_end.py](https://github.com/cseriildi/codewars_solutions/blob/38e240d29a695163c744acaa00b2e6ca10f4d440/solutions/moving_zeros_to_the_end.py) |
 |[Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) | [mumbling.py](https://github.com/cseriildi/codewars_solutions/blob/38e240d29a695163c744acaa00b2e6ca10f4d440/solutions/mumbling.py) |
 |[Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [reserved_strings.py](https://github.com/cseriildi/codewars_solutions/blob/38e240d29a695163c744acaa00b2e6ca10f4d440/solutions/reserved_strings.py) |
+| [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/python) | [strip_comments.py](https://github.com/cseriildi/codewars_solutions/blob/main/solutions/strip_comments.py) |
+| [Snail Sort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | [snail_sort.py](https://github.com/cseriildi/codewars_solutions/blob/main/solutions/snail_sort.py) |
 |[Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [sum_of_digits.py](https://github.com/cseriildi/codewars_solutions/blob/38e240d29a695163c744acaa00b2e6ca10f4d440/solutions/sum_of_digits.py) |
 |[Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) | [take_a_ten_minute_walk.py](https://github.com/cseriildi/codewars_solutions/blob/38e240d29a695163c744acaa00b2e6ca10f4d440/solutions/take_a_ten_minute_walk.py) |
 |[The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [the_supermarket_queue.py](https://github.com/cseriildi/codewars_solutions/blob/38e240d29a695163c744acaa00b2e6ca10f4d440/solutions/the_supermarket_queue.py) |
