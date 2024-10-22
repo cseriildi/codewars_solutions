@@ -6,5 +6,9 @@ Welcome to my repository of Codewars solutions! I’ve organized the tasks based
 
 ## Structure
 - [2021](./2021) - Early solutions from when I started learning Python on Codewars.
-- [2022](./2022) - One SQL exercise 😃. I was motivated for one day, but I just had too much work.
+- [2022](./2022) - One SQL exercise. 😃 I was motivated for one day, but I just had too much work.
 - [2024](./2024) - While studying at 42 Vienna, I got motivated to start learning Python again.
+
+# 
+
+[![Badge](https://www.codewars.com/users/cseriildii/badges/large)](https://www.codewars.com/users/cseriildii)
